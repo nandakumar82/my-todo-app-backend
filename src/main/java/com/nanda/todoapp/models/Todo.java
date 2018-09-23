@@ -13,7 +13,6 @@ import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 
-@ToString
 @Getter
 @Setter
 @NoArgsConstructor
